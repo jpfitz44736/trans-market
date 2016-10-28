@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
+# Name:        econmod-J
 # Purpose: Simulates a transactional economy of N agents transacting in pairs and following
 #           a specified rule
 #
