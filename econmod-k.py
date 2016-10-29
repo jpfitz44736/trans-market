@@ -1,12 +1,12 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
+# Name:        econmod-k
 # Purpose: Simulates a transactional economy of N agents transacting in pairs and following
 #           a specified rule
 #
-# Author:      peter
+# Author:      J P Fitzsimmons
 #
-# Created:     02/07/2016
-# Copyright:   (c) peter 2016
+# Created:     10/27/2016
+# Copyright:   (c) J P Fitzsimmons 2016
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 import random
